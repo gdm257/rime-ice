@@ -2,7 +2,8 @@ style:
     color_scheme: rime-257-light
     display_tray_icon: true
     ascii_tip_follow_cursor: true
-    font_face: "Sarasa Mono SC"
+    font_face: "LXGW WenKai Screen R"
+    # font_face: "Microsoft YaHei"
     font_point: 22
     inline_preedit: false
     horizontal: true
