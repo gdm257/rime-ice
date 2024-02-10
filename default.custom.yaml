@@ -2,6 +2,12 @@ patch:
     schema_list:
         - schema: rime_ice
 
+    "switcher/hotkeys":
+        # - F4
+        - Control+grave
+        - Control+Shift+grave
+        # - Alt+grave
+
     ascii_composer:
         good_old_caps_lock: true  # true | false
         switch_key:
