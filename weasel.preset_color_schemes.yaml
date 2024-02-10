@@ -1,0 +1,32 @@
+preset_color_schemes:
+    rime-257-light:
+        name: "Rime 257 Light"
+        author: "gdm257 <257@gdm.anonaddy.com>"
+        color_format: rgba # 顏色格式：argb；rgba
+        # 默認
+        back_color: 0xffffff # 背景顏色
+        border_color: 0xc6c6c6 # 邊框
+        comment_text_color: 0xff8000 # 註釋
+        label_color: 0xff8000 # 標籤
+        # shadow_color: # 陰影
+        text_color: 0x000000 # 文字
+        # 候選區域
+        # candidate_back_color:
+        # candidate_border_color:
+        # candidate_shadow_color:
+        # candidate_text_color:
+        # 高亮區域
+        hilited_back_color: 0xffffff
+        hilited_comment_text_color: 0x0000b0
+        # hilited_label_color:
+        # hilited_mark_color:
+        # hilited_shadow_color:
+        hilited_text_color: 0xff8000
+        # 高亮的候選區域
+        hilited_candidate_back_color: 0xffffff
+        # hilited_candidate_border_color:
+        # hilited_candidate_shadow_color:
+        hilited_candidate_text_color: 0x0000b0
+        # 翻頁
+        # nextpage_color:
+        # prevpage_color:
