@@ -1,0 +1,4 @@
+patch:
+    # Default to English input
+    "switches/@0/reset": 1 # set `patch.switches[0].reset` as `1` for schema.yaml
+    "switches/@3/reset": 0
